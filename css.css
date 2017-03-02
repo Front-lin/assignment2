@@ -1,0 +1,97 @@
+body{
+	background:black;
+	padding: 0;
+	margin: 0;
+	font-size: 40px;
+}
+header{
+	background: gray;
+	margin: 0 50px;
+	height:380px;
+}
+h4{
+	color: gray;
+}
+li{
+	list-style: none;
+}
+table,th,td{
+	border: 1px solid gray;
+	padding: 20px 0;
+	font-size: 40px;
+}
+table{
+	width:100%;
+}
+th{
+	background: black;
+	color: white;
+}
+
+
+.menu_2{
+	margin-top: -250px;
+}
+.menu_2 li{
+	float: right;
+	padding-right:80px;
+	font-size: 100px;
+}
+.menu_2 a{
+	color:white;
+}
+.content{
+	background: #CAD8D7;
+	margin: -52px 50px 0 50px;
+	padding: 60px 60px;
+}
+.content_1{
+	background: white;
+	padding: 20px;
+}
+.content_2{
+	background: white;
+	padding: 20px;
+	margin-top: 40px;
+}
+.content_3{
+	background: white;
+	padding: 20px;
+	margin-top: 40px;
+}
+.imag li{
+	width:1700px;
+	border-style: solid;
+	border-color: black;
+	margin-bottom: 40px; 
+}
+.imag li span{
+	position: relative;
+  	left: 700px;
+  	top:20	px;
+}
+.content_4{
+	background: white;
+	padding: 20px;
+	margin-top: 40px;
+}
+.table_content_2{
+	background: gray;
+}
+.content_5{
+	background: white;
+	padding: 20px;
+	margin-top: 40px;
+}
+.button{
+	width: 90%;
+	border-radius: 10px;
+	background: blue;
+}
+.frame_1{
+	text-align: center;
+}
+.frame_1 p{
+	font-size: 20px;
+	color: gray;
+}
